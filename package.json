@@ -1,0 +1,22 @@
+{
+  "name": "jquery.role",
+  "version": "1.0.0",
+  "description": "This project uses [Semantic Versioning](http://semver.org/) for release numbering.",
+  "main": "lib/jquery.role.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aburkut/role.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aburkut/role/issues"
+  },
+  "homepage": "https://github.com/aburkut/role"
+}
